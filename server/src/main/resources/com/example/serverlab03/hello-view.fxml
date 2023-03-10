@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="442.0" prefWidth="462.0" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.serverlab03.HelloController">
+    <children>
+        <Text fill="RED" fontSmoothingType="LCD" layoutX="175.0" layoutY="57.0" strokeType="OUTSIDE" strokeWidth="0.0" text="QUIZ">
+            <font>
+                <Font name="Arial Bold" size="47.0" />
+            </font>
+        </Text>
+        <TextArea fx:id="textArea" layoutX="24.0" layoutY="67.0" prefHeight="356.0" prefWidth="415.0" />
+    </children>
+</AnchorPane>

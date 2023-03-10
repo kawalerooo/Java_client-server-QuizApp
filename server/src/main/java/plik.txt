@@ -1,0 +1,5 @@
+pytanie 1;2137
+pytanie 2;2137
+pytanie 3;2137
+pytanie 4;2137
+pytanie 5;2137
